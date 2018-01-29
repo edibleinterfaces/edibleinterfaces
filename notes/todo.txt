@@ -1,0 +1,4 @@
+use git submodules to isolate app components
+build a config structure and look into vuex modules
+checkout https://github.com/vuejs-templates/pwa - need to workout the service worker caching/ manifest stuff for each app
+

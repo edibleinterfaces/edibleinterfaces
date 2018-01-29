@@ -1,0 +1,51 @@
+[ tools ]
+
+localstorage - persistent storage
+vue, vuex - ui, memory store
+vue-router - html5 routing
+jest - testing
+google auth, google drive - cloud storage
+datefns - for dates and times
+
+
+[ urls ]
+
+/pinned
+    landing page for 'existing' user (i.e. top level local storage key exists)
+
+
+/apps
+    list of all available apps, filterable by type and title
+
+/about
+    static page of info about edible interfaces. bugs, contributions.
+
+/app/<app_name>
+
+[ shared components ]
+
+import/export: 
+    to/from json, csv, rtf, txt via input and cloud 
+
+auth and cloud backup: 
+    google/ dropbox
+
+storage: 
+    persisting and loading config w/ localstorage
+
+modal dialogs:
+    for things like error messages, confirmation boxes
+
+colorthemes:
+    customizable color themes
+
+
+[ concerns ]
+
+don't keep apps on separate domains. previx edibleinterfaces with <appname>.edibleinterfaces.
+building app of apps. how to use vue-cli for this?  to get HMR, time travel etc.
+git submodules. how to reflect app of apps in code management to isolate components from one another?
+updates and stored config: what happens when an app update involves a config change? migration path?
+config loading.  load all configs up front? only load app configs that have been used / pinned? Seems like the router and storage will have to interact when each app is loaded.
+
+
