@@ -1,0 +1,9 @@
+[submodule "apps/notask"]
+	path = apps/notask
+	url = https://github.com/edibleinterfaces/notask
+[submodule "shared_components"]
+	path = shared_components
+	url = https://github.com/edibleinterfaces/shared_components
+[submodule "site"]
+	path = site
+	url = https://github.com/edibleinterfaces/site
