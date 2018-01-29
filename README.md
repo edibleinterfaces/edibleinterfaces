@@ -1,6 +1,6 @@
 # Edible Interfaces
 
-https://travis-ci.org/edibleinterfaces/edibleinterfaces.svg?branch=master
+[![Build Status](https://travis-ci.org/edibleinterfaces/edibleinterfaces.svg?branch=master)](https://travis-ci.org/edibleinterfaces/edibleinterfaces)
 
 Apps:
 
