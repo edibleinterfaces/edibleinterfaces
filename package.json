@@ -1,0 +1,23 @@
+{
+  "name": "edibleinterfaces",
+  "version": "1.0.0",
+  "description": "Edible Interfaces",
+  "main": "index.js",
+  "dependencies": {
+    "coffeescript": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edibleinterfaces/edibleinterfaces.git"
+  },
+  "author": "Alex Ramsdell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edibleinterfaces/edibleinterfaces/issues"
+  },
+  "homepage": "https://github.com/edibleinterfaces/edibleinterfaces#readme"
+}
