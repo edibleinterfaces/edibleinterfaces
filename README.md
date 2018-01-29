@@ -1,5 +1,7 @@
 # Edible Interfaces
 
+https://travis-ci.org/edibleinterfaces/edibleinterfaces.svg?branch=master
+
 Apps:
 
 + [NoTask](https://notask.edibleinterfaces.com)
