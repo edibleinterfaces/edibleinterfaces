@@ -4,7 +4,8 @@
   "description": "Edible Interfaces",
   "main": "index.js",
   "dependencies": {
-    "coffeescript": "^2.1.1"
+    "coffeescript": "^2.1.1",
+    "localforage": "^1.5.6"
   },
   "devDependencies": {},
   "scripts": {
