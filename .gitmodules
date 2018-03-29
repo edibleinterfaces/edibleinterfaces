@@ -1,12 +1,9 @@
 [submodule "apps/notask"]
 	path = apps/notask
 	url = https://github.com/edibleinterfaces/notask
-[submodule "shared_components"]
-	path = shared_components
-	url = https://github.com/edibleinterfaces/shared_components
+[submodule "common"]
+	path = apps/common
+	url = https://github.com/edibleinterfaces/common
 [submodule "site"]
 	path = site
 	url = https://github.com/edibleinterfaces/site
-[submodule "apps/apps/common"]
-	path = apps/apps/common
-	url = https://github.com/edibleinterfaces/common
