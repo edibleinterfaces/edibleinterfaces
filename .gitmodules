@@ -7,3 +7,6 @@
 [submodule "site"]
 	path = site
 	url = https://github.com/edibleinterfaces/site
+[submodule "apps/apps/common"]
+	path = apps/apps/common
+	url = https://github.com/edibleinterfaces/common
