@@ -1,9 +1,12 @@
 [submodule "apps/notask"]
 	path = apps/notask
 	url = https://github.com/edibleinterfaces/notask
+    branch = master
 [submodule "common"]
 	path = apps/common
 	url = https://github.com/edibleinterfaces/common
+    branch = master
 [submodule "site"]
 	path = site
 	url = https://github.com/edibleinterfaces/site
+    branch = master
